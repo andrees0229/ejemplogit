@@ -6,13 +6,9 @@
 package ejemplogit;
 
 /**
- * esta clase es un ejemplo
+ * esta es una clase para visualizar resultados
  * @author andre
  */
-public class Ejemplogit {
+public class Visualizador {
     
-    
-    public static void main(String[] args){
-        System.out.println("Hola mundo");
-    }
 }
